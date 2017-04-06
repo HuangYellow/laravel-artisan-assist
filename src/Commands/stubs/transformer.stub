@@ -1,0 +1,13 @@
+<?php
+
+namespace DummyNamespace;
+
+class DummyClass extends TransformerAbstract
+{
+    public function transform(Model $model)
+    {
+        return [
+   
+        ];
+    }
+}

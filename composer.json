@@ -1,0 +1,16 @@
+{
+    "name": "yellowhuang/laravel-artisan-assist",
+    "description": "artisan make for laravel",
+    "authors": [
+        {
+            "name": "Yellow",
+            "email": "yellowhuang122@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yellow\\ArtisanAssist\\": "src/"
+        }
+    }
+}
